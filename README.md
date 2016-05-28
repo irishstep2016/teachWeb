@@ -10,7 +10,7 @@ There are a couple ways to download Skeleton:
 - Clone the repo: `git clone https://github.com/dhg/Skeleton.git` (Note: this is under active development, so if you're looking for stable and safe, use the zipped download)
 
 
-### What's in the download?
+### What's in the download? 
 
 The download includes Skeleton's CSS, Normalize CSS as a reset, a sample favicon, and an index.html as a starting point.
 
